@@ -22,6 +22,12 @@
 #pragma once
 
 /**
+ * Make sure that this firmware indicates that I modified it
+ */
+#define SHORT_BUILD_VERSION "adow-bugfix-2.0.x"
+#define WEBSITE_URL "https://psikon.org"
+
+/**
  * Configuration.h
  *
  * Basic settings such as:
